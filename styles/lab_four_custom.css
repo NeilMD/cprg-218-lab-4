@@ -135,6 +135,19 @@ body{
     margin: auto;
 }
 
+.footer-icons {
+    font-size: 2rem;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+}
+
+.footer-message a {
+    color: white;
+    text-decoration: none;
+}
+
 .footer-copyright {
     margin: auto;
 }
